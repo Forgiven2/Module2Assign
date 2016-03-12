@@ -1,0 +1,33 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+}
+
+div {
+	height: 100%;
+}
+
+section {
+	position: relative;
+	float: left;
+	width: 33.33%;
+	border: 0.5px solid black;
+	height: 45%;
+	text-align: justify;
+}
+
+h2 {
+	margin-right: 7px;
+}
+
+p {
+	margin: 7px;
+	clear: both;
+}
